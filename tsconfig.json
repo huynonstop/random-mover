@@ -19,6 +19,7 @@
     "types": [
       "pixi.js"
     ],
+    "isolatedModules": true
   },
   "include": [
     "./src"
