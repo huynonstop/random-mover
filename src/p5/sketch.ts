@@ -19,7 +19,7 @@ export const sketch = (p: p5) => {
 
     p.stroke(0, 255);
     p.strokeWeight(1);
-    p.rect(0, 0, WIDTH - 1, HEIGHT - 1);
+    p.rect(0, 0, WIDTH, HEIGHT);
 
     // Grid
     // for (let i = 0; i <= P_WIDTH; i++) {
